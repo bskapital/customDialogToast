@@ -3,7 +3,7 @@
 Example of android custom dialog and toast using custom formatting.
 
 
-Image: ![dialog](/images/dialog.png")
+![dialog](/images/dialog.png")
 
 
-Image: ![toast](/images/toast.png")
+![toast](/images/toast.png")
