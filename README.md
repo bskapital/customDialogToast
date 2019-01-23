@@ -3,7 +3,10 @@
 Example of android custom dialog and toast using custom formatting.
 
 
-![dialog](/images/dialog.png")
+## Dialog Example
+<img src='https://github.com/bskapital/customDialogToast/blob/master/app/src/main/res/drawable/dialog.png' width='600' height='350' />
 
 
-![toast](/images/toast.png")
+## Toast Example
+<img src='https://github.com/bskapital/customDialogToast/blob/master/app/src/main/res/drawable/toast.png' width='600' height='350' />
+
