@@ -4,7 +4,7 @@ Example of android custom dialog and toast using custom formatting.
 
 
 ## Dialog Example
-<img src='https://github.com/bskapital/customDialogToast/blob/master/app/src/main/res/drawable/dialog.png' width='600' height='350' />
+<img src='https://github.com/bskapital/customDialogToast/blob/master/app/src/main/res/drawable/dialog.png' />
 
 
 ## Toast Example
