@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- https://www.google.com/design/spec/style/color.html#color-color-palette -->
+    <!-- https://developer.android.com/reference/android/support/design/R.color.html -->
+    <!-- https://developer.android.com/reference/android/R.color.html -->
+    <!-- https://developer.android.com/reference/android/graphics/Color.html -->
+    <!-- Material design color palette (Last update: May 2016 release) -->
+
+
+
+    <!-- The primary branding color for the app. By default, this is the color applied to the
+                 action bar background. -->
+    <color name="colorPrimary">#000000</color>
+    <!-- Dark variant of the primary branding color. By default, this is the color applied to
+             the status bar (via statusBarColor) and navigation bar (via navigationBarColor). -->
+    <color name="colorPrimaryDark">#000000</color>
+    <!-- Bright complement to the primary branding color. By default, this is the color applied
+             to framework controls (via colorControlActivated). -->
+    <color name="colorAccent">#F4511E</color>
+    <!-- The color applied to framework controls in their normal state. -->
+
+    <color name="colorDialogBackground">#FFFFFF</color>
+    <color name="colorDialogBorder">#F5F5F5</color>
+
+
+
+</resources>
